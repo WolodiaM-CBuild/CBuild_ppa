@@ -1,0 +1,255 @@
+Package: libcbuild
+Version: 3.0
+Architecture: amd64
+Maintainer: WolodiaM <w_melnyk@outlook.com>
+Depends: libc6 (>= 2.17), libstdc++6 (>= 4.9), libssl-dev
+Filename: ./libcbuild-3.0.deb
+Size: 223104
+MD5sum: 557508c56578756cf6d430e44f557b91
+SHA1: 8cfa0e0302975068780096034649b3cf1e6fe95e
+SHA256: 0045029796346782f64528f5a85c0b1f52cc1fab0cfeb335e2c5f2e9b9175498
+Section: utils
+Priority: optional
+Description: Build system for c++ that use scripts writen in c++ ;).
+ This is a build system that allow creating simple or not build scripts for
+ building c++ code.
+ It is easy retargetable, if you can write a build procces (what command and
+ when need to be called), to any other language.
+ It allow to use full c++ api and any libraries in build scripts.
+
+Package: libcbuild
+Version: 4.0
+Architecture: amd64
+Maintainer: WolodiaM <w_melnyk@outlook.com>
+Depends: libc6 (>= 2.17), libstdc++6 (>= 4.9), libssl-dev
+Filename: ./libcbuild-4.0.deb
+Size: 223092
+MD5sum: 3171481fbfa39e380c046754279671e8
+SHA1: 8a78f260b088acfee654233a266ebe304db9ed4e
+SHA256: 0e0795203b74a93e0a2a123e2e07d36e45655be414b767f1a520b1e1e3c30557
+Section: utils
+Priority: optional
+Description: Build system for c++ that use scripts writen in c++ ;).
+ This is a build system that allow creating simple or not build scripts for
+ building c++ code.
+ It is easy retargetable, if you can write a build procces (what command and
+ when need to be called), to any other language.
+ It allow to use full c++ api and any libraries in build scripts.
+
+Package: libcbuild
+Version: 4.0
+Architecture: amd64
+Maintainer: WolodiaM <w_melnyk@outlook.com>
+Depends: libc6 (>= 2.17), libstdc++6 (>= 4.9), libssl-dev
+Filename: ./libcbuild-3.1.deb
+Size: 221078
+MD5sum: 1200013d10abeaf2d886bf44c046d0a8
+SHA1: 7dc0e8a95baa720789f648621635512ec714b58e
+SHA256: 420e09cd73a8ad11e99e4d70b10f4f9ee4c9de38b1db85455c2fd59f51e28afd
+Section: utils
+Priority: optional
+Description: Build system for c++ that use scripts writen in c++ ;).
+ This is a build system that allow creating simple or not build scripts for
+ building c++ code.
+ It is easy retargetable, if you can write a build procces (what command and
+ when need to be called), to any other language.
+ It allow to use full c++ api and any libraries in build scripts.
+
+Package: libcbuild
+Version: 4.1
+Architecture: amd64
+Maintainer: WolodiaM <w_melnyk@outlook.com>
+Depends: libc6 (>= 2.17), libstdc++6 (>= 4.9), libssl-dev
+Filename: ./libcbuild-4.1.deb
+Size: 221072
+MD5sum: 9f48902e31371c0a71d632898ba4dfa7
+SHA1: 8a94eeeaf05dfd5a25f74e36ce82e0eaa5931190
+SHA256: d5721cad19a68c8d5e343c57fb2ded380e2a637d70e0c806d64048d16746d725
+Section: utils
+Priority: optional
+Description: Build system for c++ that use scripts writen in c++ ;).
+ This is a build system that allow creating simple or not build scripts for
+ building c++ code.
+ It is easy retargetable, if you can write a build procces (what command and
+ when need to be called), to any other language.
+ It allow to use full c++ api and any libraries in build scripts.
+
+Package: libcbuild
+Version: 5.0
+Architecture: amd64
+Maintainer: WolodiaM <w_melnyk@outlook.com>
+Depends: libc6 (>= 2.17), libstdc++6 (>= 4.9), libssl-dev
+Filename: ./libcbuild-5.0.deb
+Size: 223586
+MD5sum: 766f9753c9cac03b0ba781de2ec8fbfe
+SHA1: 7f1952f87e9c7801054200bd725aa1a4e53e049f
+SHA256: d427eb691f4f08fa1a453f0ca23ea16d8ffa434e3bf3b7d972570f8270d1178d
+Section: utils
+Priority: optional
+Description: Build system for c++ that use scripts writen in c++ ;).
+ This is a build system that allow creating simple or not build scripts for
+ building c++ code.
+ It is easy retargetable, if you can write a build procces (what command and
+ when need to be called), to any other language.
+ It allow to use full c++ api and any libraries in build scripts.
+
+Package: libcbuild
+Version: 5.1
+Architecture: amd64
+Maintainer: WolodiaM <w_melnyk@outlook.com>
+Depends: libc6 (>= 2.17), libstdc++6 (>= 4.9), libssl-dev
+Filename: ./libcbuild-5.1.deb
+Size: 223718
+MD5sum: 36b2f884c915bff28ba8dee1ab7a707d
+SHA1: e532217228eaec9e3ab0094e09c6ffc2665b9b42
+SHA256: f6d06a03f4e2cb2c384f3f56fd25ee282845c5dd79103beb0b31884d132539db
+Section: utils
+Priority: optional
+Description: Build system for c++ that use scripts writen in c++ ;).
+ This is a build system that allow creating simple or not build scripts for
+ building c++ code.
+ It is easy retargetable, if you can write a build procces (what command and
+ when need to be called), to any other language.
+ It allow to use full c++ api and any libraries in build scripts.
+ Git repo of CBuild: https://github.com/WolodiaM-CBuild/CBuild
+
+Package: libcbuild
+Version: 6.0
+Architecture: amd64
+Maintainer: WolodiaM <w_melnyk@outlook.com>
+Depends: libc6 (>= 2.17), libstdc++6 (>= 4.9), libssl-dev
+Filename: ./libcbuild-6.0.deb
+Size: 225612
+MD5sum: d20d8656204bd56d83247b04443f296e
+SHA1: 0d6040de1a614a8e27e335473a5e3f7f807f243a
+SHA256: 24f20591fa9f7c63c40a8175c4d98e89c242495faaefc5b9d3e59bd8f3a2cbc4
+Section: utils
+Priority: optional
+Description: Build system for c++ that use scripts writen in c++ ;).
+ This is a build system that allow creating simple or not build scripts for
+ building c++ code.
+ It is easy retargetable, if you can write a build procces (what command and
+ when need to be called), to any other language.
+ It allow to use full c++ api and any libraries in build scripts.
+ Git repo of CBuild: https://github.com/WolodiaM-CBuild/CBuild
+
+Package: libcbuild
+Version: 6.1
+Architecture: amd64
+Maintainer: WolodiaM <w_melnyk@outlook.com>
+Depends: libc6 (>= 2.17), libstdc++6 (>= 4.9), libssl-dev
+Filename: ./libcbuild-6.1.deb
+Size: 228746
+MD5sum: 8fa7641afaf1d4fff58eb3fb81d7cd45
+SHA1: f7424b862a0b353c6fbf55b76cfc9de8ea55caaf
+SHA256: 15d9e60f3b2c46282ee72ca8995991f9815f0d463f231c73c9fe6114cee43361
+Section: utils
+Priority: optional
+Description: Build system for c++ that use scripts writen in c++ ;).
+ This is a build system that allow creating simple or not build scripts for
+ building c++ code.
+ It is easy retargetable, if you can write a build procces (what command and
+ when need to be called), to any other language.
+ It allow to use full c++ api and any libraries in build scripts.
+ Git repo of CBuild: https://github.com/WolodiaM-CBuild/CBuild
+
+Package: libcbuild
+Version: 6.2
+Architecture: amd64
+Maintainer: WolodiaM <w_melnyk@outlook.com>
+Depends: libc6 (>= 2.17), libstdc++6 (>= 4.9), libssl-dev
+Filename: ./libcbuild-6.2.deb
+Size: 228900
+MD5sum: 3baa3c1c919284ba5c1ee6567aa81c36
+SHA1: ce665700b1ce38e563e1f050779835b4a368f607
+SHA256: efb279c68a75473338dc09fa1fc6821dd5771a05588812c233fe5cf01a27b087
+Section: utils
+Priority: optional
+Description: Build system for c++ that use scripts writen in c++ ;).
+ This is a build system that allow creating simple or not build scripts for
+ building c++ code.
+ It is easy retargetable, if you can write a build procces (what command and
+ when need to be called), to any other language.
+ It allow to use full c++ api and any libraries in build scripts.
+ Git repo of CBuild: https://github.com/WolodiaM-CBuild/CBuild
+
+Package: libcbuild
+Version: 6.3
+Architecture: amd64
+Maintainer: WolodiaM <w_melnyk@outlook.com>
+Depends: libc6 (>= 2.17), libstdc++6 (>= 4.9), libssl3
+Filename: ./libcbuild-6.3.deb
+Size: 229010
+MD5sum: 7615ff46b7a672377ade74aeb046493a
+SHA1: 5e7d0d1c32b9fbc13d3c20857530f81e82aabcec
+SHA256: 782f0aed8142a652c74e76a14111dcb7ce47807218eb728a3685b4a975a85b1e
+Section: utils
+Priority: optional
+Description: Build system for c++ that use scripts writen in c++ ;).
+ This is a build system that allow creating simple or not build scripts for
+ building c++ code.
+ It is easy retargetable, if you can write a build procces (what command and
+ when need to be called), to any other language.
+ It allow to use full c++ api and any libraries in build scripts.
+ Git repo of CBuild: https://github.com/WolodiaM-CBuild/CBuild
+
+Package: libcbuild
+Version: 6.5
+Architecture: amd64
+Maintainer: WolodiaM <w_melnyk@outlook.com>
+Depends: libc6 (>= 2.17), libstdc++6 (>= 4.9), libssl3
+Filename: ./libcbuild-6.5.deb
+Size: 229064
+MD5sum: 12f3f802b9e34bf7b3d073f05377cc48
+SHA1: 9d3ab7860d4875afd9b29576335576a1b39aa042
+SHA256: 2430cde235f59cddad77193e4a19b29a6d605dc23a3dda3ad42139921bebae50
+Section: utils
+Priority: optional
+Description: Build system for c++ that use scripts writen in c++ ;).
+ This is a build system that allow creating simple or not build scripts for
+ building c++ code.
+ It is easy retargetable, if you can write a build procces (what command and
+ when need to be called), to any other language.
+ It allow to use full c++ api and any libraries in build scripts.
+ Git repo of CBuild: https://github.com/WolodiaM-CBuild/CBuild
+
+Package: libcbuild
+Version: 7.0
+Architecture: amd64
+Maintainer: WolodiaM <w_melnyk@outlook.com>
+Depends: libc6 (>= 2.17), libstdc++6 (>= 4.9)
+Filename: ./libcbuild-7.0.deb
+Size: 945940
+MD5sum: ca466bf82c02a72a5e31e691e397b722
+SHA1: 46010913132be40be6f33c9b48dfa742ca4b2fbc
+SHA256: 8d6b9da0f1e6bc1273e5ce22fa24a74f30dbfda1c13837f331a7fc7d359948a8
+Section: utils
+Priority: optional
+Description: Build system for c++ that use scripts writen in c++ ;).
+ This is a build system that allow creating simple or not build scripts for
+ building c++ code.
+ It is easy retargetable, if you can write a build procces (what command and
+ when need to be called), to any other language.
+ It allow to use full c++ api and any libraries in build scripts.
+ Git repo of CBuild: https://github.com/WolodiaM-CBuild/CBuild
+
+Package: libcbuild
+Version: 7.1
+Architecture: amd64
+Maintainer: WolodiaM <w_melnyk@outlook.com>
+Depends: libc6 (>= 2.17), libstdc++6 (>= 4.9)
+Filename: ./libcbuild-7.1.deb
+Size: 944560
+MD5sum: 273bafbd0b5d237c70e2ae90696dc817
+SHA1: c2dcbf6701ed86ace576185bc562d2e3b4b77983
+SHA256: 864bf792bcea9f0561f88cfe737ff3b36c5f56b9e6e66e6c14b3d8ff83f3af59
+Section: utils
+Priority: optional
+Description: Build system for c++ that use scripts writen in c++ ;).
+ This is a build system that allow creating simple or not build scripts for
+ building c++ code.
+ It is easy retargetable, if you can write a build procces (what command and
+ when need to be called), to any other language.
+ It allow to use full c++ api and any libraries in build scripts.
+ Git repo of CBuild: https://github.com/WolodiaM-CBuild/CBuild
+
