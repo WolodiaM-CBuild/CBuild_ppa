@@ -1,4 +1,41 @@
 -----BEGIN PGP SIGNED MESSAGE-----
+<<<<<<< HEAD
+Hash: SHA512
+
+Date: Sat, 22 Apr 2023 08:51:28 +0000
+MD5Sum:
+ 2522aee558b061cb8cbe79b513bac521             7812 Packages
+ 9ec98273494e73d1b7c79907a745fbbb             1539 Packages.gz
+ be3d46a0cb0ba7fcb19bcd98d8fbbeeb               38 Release
+SHA1:
+ ee971fde780d94a83b83e93ae026544a5bb9fc33             7812 Packages
+ 29900d7c695704b3e4f5fb0cc8a3334b8defc24c             1539 Packages.gz
+ 14204d263107a852e697d7a893f8ce8da633f8c8               38 Release
+SHA256:
+ 3576802f456e0ae45aa3ff0bd76848dc51eb7fe2cfb1b0063d65ae31df16610a             7812 Packages
+ 8b72cc8261111911d2f4d311a591898807a5ed9e046ba1d8cf37fca114449e5f             1539 Packages.gz
+ 0db11037d1aff65ee0f5f9c45ba6c4347d73fffbd2ceb2a78362df2d5f518aa5               38 Release
+SHA512:
+ 062ceab8f711b73a1694f265ee0ec0b312476a22c33db9f73b917c01a157ff12a7c53a151b820bf2209abd4298a29f4fb9c5a4d67f63ca4aa45c39ecbf31a006             7812 Packages
+ 4a33ab2d8ef29b5033addc4e8458932bcf29e83f3eadd39902216dfb62d4c454cd6ff328f437a7f42ae9946eff0565abe6e9b6b123aded8ae11bd77c76958113             1539 Packages.gz
+ 3863c2cff2fad1eed557729a52ec353d0c373bdb736cf064b1969f0d9eadea67c8ecfd0c34c51e6403fa1ced98928d2277977b0566b6acd68c43d31b5600dcee               38 Release
+-----BEGIN PGP SIGNATURE-----
+
+iQJJBAEBCgAzFiEE8jgNZDK8piESPZpnGQ2t8+9gksUFAmRDoBQVHHdfbWVsbnlr
+QG91dGxvb2suY29tAAoJEBkNrfPvYJLFX8kP/00fbR5Mf0Qq9AHUQyI9C/zNGaUi
+gxg+BsaSF3XTqdIyh9tYjSflgqL4+/9ANwWOhyQ21T93ikNdtCwT3wNXJzU64O4+
+CTxa8Gm2jRPTvfCbYAPzQBdDa9HVmhvRjTpbivGJVyLrmi2hA+Omc4T82QpUz8tz
+rcyKa26Gn6cKppo/IQzuZ4n7skGGkRyDApO4EWfUNCsX8EvjS+h8KedPYXqll2uj
+hhijG5v8pOox0xjnXC2hwXVIPTEGuqyk61GFKAUO+kg0xz2sImf92QyKf+phYn5m
+0GVLOd+dgjPq0LMkyzq+GDn7EdA/eaoOVUXxUbVA+Ef/cILkuhN87zLoOhaqnuW9
+L9VgCfqeLjv/vgi0TmTEItQRxEoFnGjNeaKuY9dsj98CkeGIQickdfjBQ8N71Cv4
+8F4AAiIXM2qjHbc+3T6FISTAlhL5tyeRvrgMqgyt0z8NfFjRul5JXkThS7citH+c
+vK1VQw+UvpLYjWlU/48r5Wn/3SJOQGet0TQfy4XXvThgxg4baSOE5lcTvuNe8yl2
+HMoxXUQEe5rWiF8F2ksJCbkMtf3zopD29tAC1TnUrcT8EpdVTAgFdk3YtYUWpUzx
+L/XFMrI4QWdBfOMr6uSohmHmCchbpdZmJCKvuFYaUgFfgMkFNZ6I+wXGzP5Ifo22
+tHYqFcQkYSXVdMCt
+=c57k
+=======
 Hash: SHA256
 
 Date: Sun, 14 May 2023 08:35:27 +0000
@@ -34,4 +71,5 @@ g89KUlIn236iMcY5i+FEE82k5t02DVUFrUFtfBDy/ArvAGbttijy8STJ7633ZxuQ
 IUGxvXEubYd3k4eShm9qSguL46Xh1GlYXBlDwaDKW4+S3eINAWrddeYlnNO28HCK
 SsQFeRoNIbGVYio1
 =XB5K
+>>>>>>> 4a2462e (First local ppa commit)
 -----END PGP SIGNATURE-----

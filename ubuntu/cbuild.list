@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 deb [signed-by=/etc/apt/trusted.gpg.d/cbuild.gpg] https://wolodiam-cbuild.github.io/CBuild_ppa/ ./
+=======
+deb [signed-by=/etc/apt/trusted.gpg.d/cbuild.gpg] https://wolodiam-cbuild.github.io/CBuild_ppa/ ./
+>>>>>>> 4a2462e (First local ppa commit)
