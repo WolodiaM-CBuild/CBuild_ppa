@@ -1,37 +1,17 @@
-<<<<<<< HEAD
-Date: Sat, 22 Apr 2023 08:51:28 +0000
+Date: Thu, 18 May 2023 18:53:40 +0000
 MD5Sum:
- 2522aee558b061cb8cbe79b513bac521             7812 Packages
- 9ec98273494e73d1b7c79907a745fbbb             1539 Packages.gz
- be3d46a0cb0ba7fcb19bcd98d8fbbeeb               38 Release
+ 8fbfa318e1c3c27d8a1ae70bf5102da7            11826 Packages
+ 021d6076eb598518e4d538223e3ab11f             2064 Packages.gz
+ c7e8eecd0be86c5de1686a73e083e880               38 Release
 SHA1:
- ee971fde780d94a83b83e93ae026544a5bb9fc33             7812 Packages
- 29900d7c695704b3e4f5fb0cc8a3334b8defc24c             1539 Packages.gz
- 14204d263107a852e697d7a893f8ce8da633f8c8               38 Release
+ 5e4401033325ba91ccfb622f9bea372c6d613813            11826 Packages
+ 36cb9c9748d69f05baf5531be933acc6170c70af             2064 Packages.gz
+ 9b20ee16ca993fa8491a6f97ac8101f28685988e               38 Release
 SHA256:
- 3576802f456e0ae45aa3ff0bd76848dc51eb7fe2cfb1b0063d65ae31df16610a             7812 Packages
- 8b72cc8261111911d2f4d311a591898807a5ed9e046ba1d8cf37fca114449e5f             1539 Packages.gz
- 0db11037d1aff65ee0f5f9c45ba6c4347d73fffbd2ceb2a78362df2d5f518aa5               38 Release
+ 58f045051035ee9e50e9c17efa747d29d67ba40775e08bc3dfcf1349c18dedbe            11826 Packages
+ b15f57a46fdacb0872f0b18c359a390ab23edfad67093474927306a7895eb14f             2064 Packages.gz
+ eb10af8bc6a4e5054d5223bcbc6bb9c5941100c7799313ac42acd739acefe3cf               38 Release
 SHA512:
- 062ceab8f711b73a1694f265ee0ec0b312476a22c33db9f73b917c01a157ff12a7c53a151b820bf2209abd4298a29f4fb9c5a4d67f63ca4aa45c39ecbf31a006             7812 Packages
- 4a33ab2d8ef29b5033addc4e8458932bcf29e83f3eadd39902216dfb62d4c454cd6ff328f437a7f42ae9946eff0565abe6e9b6b123aded8ae11bd77c76958113             1539 Packages.gz
- 3863c2cff2fad1eed557729a52ec353d0c373bdb736cf064b1969f0d9eadea67c8ecfd0c34c51e6403fa1ced98928d2277977b0566b6acd68c43d31b5600dcee               38 Release
-=======
-Date: Sun, 14 May 2023 08:35:27 +0000
-MD5Sum:
- b320ec08eeca0af46e6bf0052eb8ba97            10224 Packages
- 48fe5951241db073b17b91d85c4aa002             1858 Packages.gz
- 66c42dcff4ea6d159d4ea09b1f5b2eb2               38 Release
-SHA1:
- e64dcd38731e64dde755f616f199c1d49eb38f98            10224 Packages
- 035ba71dbacb22f8b502984adbad4250c67a8e6a             1858 Packages.gz
- aa55eb1162c6f94294ee52326f08061e720f41ac               38 Release
-SHA256:
- e42eaf95f0837ce2579aabad5860a2ec6478363477d59e1a46b85cfa09b8df4f            10224 Packages
- 7eace484e5275fb89a06ff4f59ee56a973475926f2e5a458fab4572eabeef9be             1858 Packages.gz
- 68b85aa5b997c9cf2130ae4c6e3fd2579b3a7612dfd8d24230547c799a776ff9               38 Release
-SHA512:
- ac79b8772c0314a77a94aba04c1e74bbf481afc2520240092ba918d3dca65489da09ae18da44af751f5f660774f9675aaf71cda8ded3180ff1cbd46978afd959            10224 Packages
- 325de2f37f763ce794dbf1da759b24902a7159bf303dfc24e4f0e6f9210fa31270c33de37480641d2b53b68fbc8c11a968b8b5fafa998f6fa2d1a2ce9d9c4c5d             1858 Packages.gz
- 9d83bc6bfdf7762e7bad531b7bb032b9d019cf000c3059d88af68d92e41bae6fdf2102e2885c0f39c2d57bf304f42d25acbf96e4f95efb25eb0d6aaca289e015               38 Release
->>>>>>> 4a2462e (First local ppa commit)
+ 7b9e7c81b6569ec9e99a056f637e041aaae336fa4cbaeddfb6748d07b382b3339f266f1e2e2c72be4d94aa2ed409723c3ee0e2eba414f4e6caeada0e419af996            11826 Packages
+ c934b1402398df144235278a3862d8833aa961cc62485ada6882ec2880259f0128ea83757849cd108f88ab9a28aedbcf1bea35c9337a028053c9ff7c97cb6bd3             2064 Packages.gz
+ dc987bc2e7becc2769783b8d9d4d4c05e407d1e62d8db94073976a0fd9a46acb53f81bca610f7b3a462921b25b574df47ce04c509ba5a3bf178a38b9a0aee8cc               38 Release
